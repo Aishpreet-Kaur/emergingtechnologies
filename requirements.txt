@@ -1,0 +1,8 @@
+python>=3.9
+langchain
+faiss-cpu
+chromadb
+transformers
+sentence-transformers
+streamlit
+flask
