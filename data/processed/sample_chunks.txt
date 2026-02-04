@@ -1,0 +1,3 @@
+[CHUNK 0]
+artificial intelligence is the simulation of human intelligence processes by machines. it includes learning, reasoning, and self-correction.
+

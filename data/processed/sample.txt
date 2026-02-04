@@ -1,0 +1,2 @@
+Artificial Intelligence is the simulation of human intelligence processes by machines.
+It includes learning, reasoning, and self-correction.
